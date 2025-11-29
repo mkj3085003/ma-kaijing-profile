@@ -1,0 +1,35 @@
+# ============================
+# Project information
+# ============================
+site_name: 'Ma Kaijing'
+site_description: 'Personal Website of Ma Kaijing'
+
+# Repository 信息（如果你不需要可以删除）
+repo_name: 'ma-kaijing-profile'
+repo_url: 'https://github.com/mkj3085003/ma-kaijing-profile'
+
+# Copyright
+copyright: 'Kaijing Ma'
+
+# ============================
+# Theme Configuration
+# ============================
+# Configuration
+theme:
+  name: material
+
+plugins:
+  - search
+  - mkdocstrings
+
+
+# ============================
+# Navigation
+# ============================
+nav:
+  - "🌸 Hello!": index.md
+  - "🌼 My Little Projects": projects.md
+  - "🤖 Robo Adventures": robotics.md
+  - "🔭 Research Journey": research.md
+
+

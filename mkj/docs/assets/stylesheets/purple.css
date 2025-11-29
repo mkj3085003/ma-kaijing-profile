@@ -1,0 +1,40 @@
+/* ========== 整体背景淡紫色 ========== */
+.md-main {
+    background-color: #f5f0ff; /* very light purple */
+}
+
+/* ========== 左侧导航栏背景紫色 ========== */
+.md-sidebar--primary {
+    background-color: #6a4fbf; /* purple */
+}
+
+/* ========== 左侧导航文字颜色 ========== */
+.md-nav__link,
+.md-nav__title {
+    color: #ffffff !important;  /* white text */
+}
+
+/* ========== 鼠标悬停紫色更亮 ========== */
+.md-nav__link:hover {
+    background-color: #7d62d4 !important; 
+}
+
+/* ========== Content 卡片微紫色阴影 ========== */
+.md-typeset {
+    color: #333;
+}
+
+.md-typeset a {
+    color: #7b4bff;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+    color: #5a3dbf;
+}
+
+/* ========== 顶部导航栏加一点柔紫色 ========== */
+.md-header {
+    background-color: #7b4bff !important;
+}
